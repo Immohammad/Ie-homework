@@ -1,4 +1,4 @@
-**Lord Voldemort and Harrypotter maze game**
+**Lord Voldemort and Harrypotter maze game**  
 **Description
 
 Lord Voldemort wants to play a fake maze game with Harry Potter and kill him.
