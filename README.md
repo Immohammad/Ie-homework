@@ -25,3 +25,14 @@ Harry will be killed by lord Voldemort!                *(third maze is solvable 
 
 ## Repo structure
 - [src](./src) contains a java class that implemented this project.
+
+### Implemented With  
+* [Java](https://www.java.com/en/)  
+
+## Usage  
+The algorithm used in this implementation, is the fastest algorithm to find out a maze is solvable or not.
+
+## Contact
+Mohammad - mo.movahedinia@gmail.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
