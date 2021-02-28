@@ -1,5 +1,5 @@
 **Lord Voldemort and Harrypotter maze game**  
-**Description
+*Description*
 
 Lord Voldemort wants to play a fake maze game with Harry Potter and kill him.
 harry enters to maze from (1,1) cell and he wants to reach to (n,m) cell. There are deadly traps along the way. If the maze isn't solvable, in the output will be written "Harry will be killed by magical traps within the maze!" and if maze is solvable, Voldemort is ambushed in the last cell and will kill Harry. so in the output will be written "Harry will be killed by lord Voldemort!".
